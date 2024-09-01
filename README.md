@@ -1,3 +1,3 @@
-# aula-01
+# Portfólio
 
-meu 69 site
+Planejando e criando meu próprio portfólio
